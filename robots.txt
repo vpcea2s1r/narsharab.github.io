@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_referrer&from&fbclid&gclid&yclid
+Crawl-delay: 2
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://xn--80aaae0dtb6d.xn--p1ai/sitemap-index.xml
